@@ -1,0 +1,24 @@
+{
+  "name": "oj-table",
+  "version": "0.1.0",
+  "main": "oj.Table.js",
+  "homepage": "http://ojjs.org",
+  "authors": [
+    "Evan Moran <evan@evanmoran.com>"
+  ],
+  "description": "Table plugin for OJ",
+  "keywords": [
+    "oj",
+    "plugin",
+    "table"
+  ],
+  "license": "MIT",
+  "ignore": [
+    ".DS_Store",
+    ".git",
+    ".gitignore",
+    "bower_components",
+    "package.json",
+    "node_modules"
+  ]
+}

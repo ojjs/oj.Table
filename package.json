@@ -1,0 +1,17 @@
+{
+  "name": "oj-table",
+  "version": "0.0.1",
+  "main": "oj.Table.js",
+  "description": "Table plugin for OJ with two-way binding to collections",
+  "homepage": "http://ojjs.org",
+  "keywords": [
+    "oj",
+    "plugin",
+    "table"
+  ],
+  "author": "Evan Moran <evan@evanmoran.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ojjs/oj.Table.git"
+  }
+}
